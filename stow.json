@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/BuwaR/stow-releases/releases/download/v0.1.0/stow_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/BuwaR/stow-releases/releases/download/v0.2.0/stow_0.2.0_windows_amd64.zip",
             "bin": [
                 "stow.exe"
             ],
-            "hash": "27555176534d741efeafdfe005400690321e4488b52ee972bff563cb0f3b3a8b"
+            "hash": "e1c9cf96dafcc3c09e4830cf213dc52da683d5e045b7cb98ccc6fc7039e59024"
         }
     },
     "homepage": "https://github.com/BuwaR/stow-releases",
