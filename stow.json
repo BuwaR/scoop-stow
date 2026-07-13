@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/BuwaR/stow-releases/releases/download/v0.1.0/stow_0.1.0_windows_amd64.zip",
+            "bin": [
+                "stow.exe"
+            ],
+            "hash": "27555176534d741efeafdfe005400690321e4488b52ee972bff563cb0f3b3a8b"
+        }
+    },
+    "homepage": "https://github.com/BuwaR/stow-releases",
+    "description": "Local, encrypted CLI + TUI password/secrets manager"
+}
